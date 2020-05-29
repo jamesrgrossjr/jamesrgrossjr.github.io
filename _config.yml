@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "cloudedbytech"
+  username               : &cloudedbytech
 facebook:
   username               :
   app_id                 :
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "This is me!"
-  avatar           : "profile.png"
+  avatar           : "profilepic.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Denver, CO"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
